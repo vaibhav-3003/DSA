@@ -1,3 +1,5 @@
+//Longest Common Prefix
+
 let strs = ["flower", "flow", "flight"];
 
 let prefix  = strs[0];
